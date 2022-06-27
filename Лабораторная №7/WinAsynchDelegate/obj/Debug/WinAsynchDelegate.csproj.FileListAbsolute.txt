@@ -1,0 +1,11 @@
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe.config
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.pdb
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Form1.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Properties.Resources.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.GenerateResource.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №7\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.pdb

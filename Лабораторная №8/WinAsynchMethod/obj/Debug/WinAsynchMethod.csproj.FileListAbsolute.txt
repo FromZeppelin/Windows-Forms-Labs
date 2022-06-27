@@ -1,0 +1,11 @@
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №8\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb

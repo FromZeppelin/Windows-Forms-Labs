@@ -1,0 +1,12 @@
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\bin\Debug\WinPrint.exe.config
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\bin\Debug\WinPrint.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\bin\Debug\WinPrint.pdb
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.csproj.SuggestedBindingRedirects.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.Form1.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.Properties.Resources.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.csproj.GenerateResource.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.pdb
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №6\WinPrint\obj\Debug\WinPrint.Form2.resources

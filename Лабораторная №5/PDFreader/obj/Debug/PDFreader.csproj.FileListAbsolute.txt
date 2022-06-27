@@ -1,0 +1,16 @@
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\bin\Debug\PDFreader.exe.config
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\bin\Debug\PDFreader.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\bin\Debug\PDFreader.pdb
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.csproj.SuggestedBindingRedirects.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.csproj.ResolveComReference.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.Form1.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.Properties.Resources.resources
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.csproj.GenerateResource.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.exe
+C:\Users\resid\Desktop\ОП\Forms\Лабораторная №5\PDFreader\obj\Debug\PDFreader.pdb
